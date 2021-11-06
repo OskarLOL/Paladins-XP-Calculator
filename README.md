@@ -5,3 +5,4 @@ You can use this Python script for whatever you want to use it for i do not care
 Enjoy this kinda useless Calculator
 
 // C++ Files are made by IzyGam1ng: https://github.com/IzyGam1ng
+// and edited by me
